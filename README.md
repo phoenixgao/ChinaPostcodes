@@ -42,3 +42,7 @@
 - [ ] 自动发布SQL (auto release)
 - [ ] Contribute Guide
 - [ ] 增量更新包
+
+## 参考
+- [中国邮政集团邮编查询地址]( http://www.cpdc.com.cn/web/index.php?m=postsearch&c=index&a=init&t=postcode)
+- [国家统计局最新县及县以上行政区划代码(2015/9/30)](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/201608/t20160809_1386477.html)
